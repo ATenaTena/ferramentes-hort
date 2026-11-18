@@ -1,0 +1,12 @@
+{
+  "name": "Les ferramentes de l'hort",
+  "short_name": "Les ferramentes de l'hort",
+  "id": "com.example.gamename",
+  "description": "Una aixada, una regadora, un cabàs… Saps com es diuen totes les ferramentes de l’hort?\n\nRecorre l’hort escolar amb Joanot, troba les 10 ferramentes i guarda cadascuna al lloc que porta el seu nom al cobertís. Cada encert suma 10 punts. Si t’equivoques, perds 10 punts i la ferramenta torna al lloc on l’has trobada.\n\nCom es juga\n\nIntro per a començar.\n\nFletxes per a moure Joanot.\n\nE per a arreplegar una ferramenta i, quan arribes al seu cartell, E per a deixar-la.\n\nUn minijoc de L’Hort de Joanot per a aprendre els noms de les ferramentes en valencià.",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
